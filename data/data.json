@@ -3,7 +3,11 @@
         {
             "id": "o-001",
             "network": "Facebook",
+<<<<<<< HEAD
             "user": "@Joseph",
+=======
+            "user": "@nathanf",
+>>>>>>> 618d0608207a62d68a921006abe13d3fa8c155f2
             "audienceType": "followers",
             "audience": 1987,
             "today": 12,
@@ -12,7 +16,11 @@
         {
             "id": "o-002",
             "network": "Twitter",
+<<<<<<< HEAD
             "user": "@JoestarOficial",
+=======
+            "user": "@nathanf",
+>>>>>>> 618d0608207a62d68a921006abe13d3fa8c155f2
             "audienceType": "followers",
             "audience": 1044,
             "today": 99,
@@ -21,7 +29,11 @@
         {
             "id": "o-003",
             "network": "Instagram",
+<<<<<<< HEAD
             "user": "@JoestarOficial",
+=======
+            "user": "@realnathanf",
+>>>>>>> 618d0608207a62d68a921006abe13d3fa8c155f2
             "audienceType": "followers",
             "audience": "11000",
             "today": 1099,
@@ -30,7 +42,11 @@
         {
             "id": "o-004",
             "network": "YouTube",
+<<<<<<< HEAD
             "user": "JoestarOficial",
+=======
+            "user": "Nathan F",
+>>>>>>> 618d0608207a62d68a921006abe13d3fa8c155f2
             "audienceType": "suscribers",
             "audience": 8239,
             "today": 144,
