@@ -1,0 +1,45 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+    font-family: 'Inter';
+    src: url(./assets/Inter/Inter-VariableFont.ttf) format('truetype');
+}
+
+:root {
+    --font-family: 'Inter';
+    --font-family-d: 'Inter2';
+    --lime-green: hsl(163, 72%, 41%);
+    --red: hsl(356, 69%, 56%);
+    --facebook: hsl(208, 92%, 53%);
+    --twitter: hsl(203, 89%, 53%);
+    --youtube: hsl(348, 97%, 39%);
+    --toggle: hsl(230, 22%, 74%);
+    --very-dark-blue: hsl(230, 17%, 14%);
+    --very-dark-blue-top: hsl(232, 19%, 15%);
+    --dark-desaturated-blue: hsl(228, 28%, 20%);
+    --desaturated-blue: hsl(228, 34%, 66%);
+    --white: hsl(0, 0%, 100%);
+    --very-pale-blue: hsl(225, 100%, 98%);
+    --light-grayish-blue: hsl(227, 47%, 96%);
+    --dark-grayish-blue: hsl(228, 12%, 44%);
+
+    /* Gradientes */
+
+    --gradient-toggle: linear-gradient(
+        to right,
+        hsl(210, 79%, 56%),
+        hsl(146, 68%, 55%)
+    );
+    --gradient-instagram: linear-gradient(
+        to right,
+        hsl(37, 97%, 70%),
+        hsl(5, 77%, 71%),
+        hsl(329, 70%, 58%)
+    );
+}
+
+body {
+    font-family: var(--font-family);
+}
