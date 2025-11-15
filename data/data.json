@@ -12,7 +12,7 @@
         {
             "id": "o-002",
             "network": "Twitter",
-            "user": "@Joestar",
+            "user": "@JoestarOficial",
             "audienceType": "followers",
             "audience": 1044,
             "today": 99,
@@ -20,7 +20,8 @@
         },
         {
             "id": "o-003",
-            "user": "@JJokstar",
+            "network": "Instagram",
+            "user": "@JoestarOficial",
             "audienceType": "followers",
             "audience": "11000",
             "today": 1099,
@@ -29,7 +30,7 @@
         {
             "id": "o-004",
             "network": "YouTube",
-            "user": "JoJo's",
+            "user": "JoestarOficial",
             "audienceType": "suscribers",
             "audience": 8239,
             "today": 144,
