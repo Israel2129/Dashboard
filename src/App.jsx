@@ -1,7 +1,4 @@
 import { Header } from './components/Header'
-import { db } from './Firebase/firebase'
-
-console.log('Firestore conectado:', db)
 
 import {
     OverviewContainer,
