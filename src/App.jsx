@@ -1,4 +1,8 @@
 import { Header } from './components/Header'
+import { db } from './Firebase/firebase'
+
+console.log('Firestore conectado:', db)
+
 import {
     OverviewContainer,
     OverviewTodayContainer,
@@ -10,7 +14,6 @@ function App() {
             <Header />
             <OverviewContainer />
             <OverviewTodayContainer />
-            <div>console.log("App renderizada");</div>
         </>
     )
 }
