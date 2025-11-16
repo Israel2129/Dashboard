@@ -70,7 +70,7 @@ export const OverviewTodayCard = ({
     isUp,
 }) => {
     return (
-        <article className='bg-(--light-grayish-blue) w-[326px] h-[125px] mb-4 mx-auto rounded-[5px] p-[18px] cursor-pointer dark:bg-(--dark-desaturated-blue) hover:brightness-95 hover:dark:brightness-125 '>
+        <article className='bg-(--light-grayish-blue) w-[326px] h-[125px] mb-4 mx-auto rounded-[5px] p-[18px]  cursor-pointer dark:bg-(--dark-desaturated-blue) hover:brightness-95 hover:dark:brightness-125 '>
             <div className='flex justify-between items-center '>
                 <p className=' font-bold text-(--dark-grayish-blue)'>
                     {statsType}
