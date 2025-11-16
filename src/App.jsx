@@ -10,6 +10,7 @@ function App() {
             <Header />
             <OverviewContainer />
             <OverviewTodayContainer />
+            <div>console.log("App renderizada");</div>
         </>
     )
 }
